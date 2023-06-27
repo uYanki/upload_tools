@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": -1,
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.startupPrompt": "never",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.configureEnvironment": {
+        "PICO_SDK_PATH": "C:\\Users\\Administrator\\Desktop\\pico\\pico-sdk"
+    },
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "cmake.configureOnOpen": true,
+    "C_Cpp.clang_format_style": "file:D:/board-stm32f103rc-berial/.clang-format",
+    "C_Cpp.clang_format_fallbackStyle": "Chromium"
+}
