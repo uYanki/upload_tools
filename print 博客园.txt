@@ -1,0 +1,11 @@
+$('#header').remove();
+$('#top_nav').remove();
+$('#leftmenu').remove();
+$('#content').removeAttr('id');
+$('#post_detail').removeAttr('id');
+$('#post').removeAttr('id');
+$('.post').removeAttr('class');
+$('#comment_form').remove();
+$('#blog_post_info_block').remove();
+$('.postfoot').remove();
+$('#footer').remove();
